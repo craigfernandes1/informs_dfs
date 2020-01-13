@@ -116,6 +116,8 @@ if __name__ == "__main__":
     mdl.load(df)
     mdl.build_model()
     mdl.solve()
+
+    print("Hello")
     
     
     
